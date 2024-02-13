@@ -1,0 +1,7 @@
+Scrie un program care calculeaza o secventa de numere Fibonacci folosind fire de executie.
+
+1. O Secventa de numere Fibonacci: orice numar din secventa reprezinta suma celor doua numere anterioare
+Ex: 0 1 1 2 3 5 8 13 21 34 55 89 etc.
+
+2. Pentru taskul din thread vei folosi formula Binet => un numar n este Fibonacci daca 5*n^2 + 4 sau 5*n^2 - 4 este patrat perfect
+ Nota: Un patrat perfect = un numar care este patratul altui numar (ex: 4 - patratul lui 2; 9 - patratul lui 3; 16 - patratul lui 4 etc.)
